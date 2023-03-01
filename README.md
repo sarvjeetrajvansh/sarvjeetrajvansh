@@ -16,6 +16,9 @@
         - Infrastructure as code
         - Optimising your application running cost
         - API Gateways
+        - CI/CD
+        - Philosphy
+        - If you feel lost in your carrer and If you feel, I can help you then reach out to me without second thought.
         
         
   </li>
