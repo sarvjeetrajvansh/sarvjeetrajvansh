@@ -7,12 +7,17 @@
 
 <li>🌱 I’m currently learning Front-End Technologies
 
-<li> Ask me about 
-  - Increasing your product velocity
-  - Migatrating to cloud
-  - Desiging and Maintaing your system at Scale
-  - Caching stragey
-  - Infrastructure as code
+<li> Ask me about :<br>
+  
+        - Increasing your product 3v's
+        - Migrating to cloud
+        - Desiging and Maintaing your system at Scale
+        - Caching stragey
+        - Infrastructure as code
+        - Optimising your application running cost
+        - API Gateways
+        
+        
   </li>
   </ul>
 <hr>
