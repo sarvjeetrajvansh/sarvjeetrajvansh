@@ -1,24 +1,23 @@
 <h1 align="center"> I'm Sarvjeet  <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarvjeetrajvansh&label=Profile%20views&color=0e75b6&style=flat" alt="sarvjeetrajvansh" /> </h1>
-<h3 align="center"> I am passionate software engineer with 6+ yrs of experience in cloud and DevOps domain.
+<h3 align="center"> I am software engineer with 6+ yrs of experience in cloud and DevOps.
 <br>
 <br>
 <ul align="left">
-<li>🔭 I’m currently working at Tata Cliq</li>
+<li>🔭 I’m currently working at TataCliq</li>
 
 <li>🌱 I’m currently learning Front-End Technologies
 
 <li> Ask me about :<br>
   
-        - Increasing your product 3v's
         - Migrating to cloud
-        - Desiging and Maintaing your system at Scale
-        - Caching stragey
+        - Designing and Maintaining your system at Scale
+        - Caching strategy
         - Infrastructure as code
-        - Optimising your application running cost
+        - Optimising your infrastructure operational cost
         - API Gateways
         - CI/CD
-        - Philosphy
-        - If you feel lost in your carrer and If you feel, I can help you then reach out to me without second thought.
+        - Philosophy
+        - If you are feeling lost in your career and believe I can assist you, please feel free to contact me.
         
         
   </li>
