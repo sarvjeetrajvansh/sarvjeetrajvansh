@@ -10,7 +10,7 @@
 <li> Ask me about :<br>
   
         - Migrating to cloud
-        - Designing and Maintaining your system at Scale
+        - Designing and Maintaining your infrastructure at Scale
         - Caching strategy
         - Infrastructure as code
         - Optimising your infrastructure operational cost
