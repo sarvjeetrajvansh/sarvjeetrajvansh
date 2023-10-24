@@ -5,7 +5,7 @@
 <ul align="left">
 <li>🔭 At Present, I’m working with TataCliq</li>
 
-<li>🌱 Currently I’m learning and exploring on tech around fullstack dev and cloud in my free time.
+<li>🌱 Currently I’m learning and exploring tech around fullstack development and cloud in my free time.
 
 <li> Ask me about :<br>
   
