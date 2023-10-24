@@ -1,11 +1,11 @@
 <h1 align="center"> I'm Sarvjeet  <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarvjeetrajvansh&label=Profile%20views&color=0e75b6&style=flat" alt="sarvjeetrajvansh" /> </h1>
-<h3 align="center"> I am a software engineer with 6+ yrs of experience in cloud and DevOps.
+<h3 align="center"> I am a software engineer with 7+ yrs of experience in platform engineering.
 <br>
 <br>
 <ul align="left">
 <li>🔭 At Present, I’m working with TataCliq</li>
 
-<li>🌱 Currently I’m learning front-end development in my free time.
+<li>🌱 Currently I’m learning and exploring on tech around fullstack dev and cloud in my free time.
 
 <li> Ask me about :<br>
   
